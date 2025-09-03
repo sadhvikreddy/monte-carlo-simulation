@@ -1,9 +1,9 @@
 # Monte Carlo Simulation
-The github repo contains a python notebook with the source code and sample_file.txt. This is the same file provided as input for the test, i have just renamed it for ease of access. Kindly don't hesistate to approach me in case, something is inaccessable.
+The github repo contains a python notebook with the source code and sample_input.txt. This is the same file provided as input for the test, i have just renamed it for ease of access. Kindly don't hesistate to approach me in case, something is inaccessable.
 
 ### Steps to Run the code
 1) Open the .ipynb file in google colab (or any notebook editor of your choice)
-2) Copy 'sample_file.txt' to the working directory
+2) Copy 'sample_input.txt' to the working directory
 3) run the cells.
 4) To run simulation, use 
 ```
