@@ -19,6 +19,7 @@ Running the code for 5000 iterations multiple times, gave the similar output. so
 - Link to the chatGPT chat: https://chatgpt.com/share/68b8a2d5-9638-8007-bbe8-8540a7ff5ca1
 - I have used chatGPT for mostly understanding, the problem statement to avoid me misreading the requirements and specifications.
 - For help with Python Syntax, i have this cheatsheet https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+- Overall, including documentation. i have spent 3 hours on the task (this is end-to-end. not just the coding bit)
 
 
 ## Thank you for giving me this Oppurtunity. Hope to hear from you soon.
